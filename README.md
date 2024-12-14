@@ -1,5 +1,5 @@
 # Matplotlib
-Absolutely, the code provided demonstrates various functionalities of Matplotlib for data visualization in Python. 
+Here, the code provided demonstrates various functionalities of Matplotlib for data visualization in Python. 
 Here's a breakdown of each cell:
 
 Cell 1 & 2:
